@@ -38,4 +38,4 @@ app/
 ## Backend
 
 The notification service repository:
-`https://github.com/[your-username]/notification-service`
+`https://github.com/Omarahorrar5/notification-service`
