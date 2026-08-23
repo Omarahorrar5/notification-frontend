@@ -39,4 +39,3 @@ app/
 
 The notification service repository:
 `https://github.com/[your-username]/notification-service`
-```
